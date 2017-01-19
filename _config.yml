@@ -69,4 +69,4 @@ theme: typing
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: 
+  repo: https://git.heroku.com/damp-island-38212.git
